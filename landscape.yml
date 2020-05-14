@@ -648,7 +648,7 @@ landscape:
             name: Microsoft (adopter)
             homepage_url: 'https://www.microsoft.com'
             stock_ticker: MSFT
-            logo: microsoft.svg
+            logo: http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: NBC News Digital (adopter)
