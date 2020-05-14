@@ -645,6 +645,12 @@ landscape:
             logo: magento.svg
             crunchbase: 'https://www.crunchbase.com/organization/magento'
           - item:
+            name: Microsoft (adopter)
+            homepage_url: 'https://www.microsoft.com'
+            stock_ticker: MSFT
+            logo: microsoft.svg
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+          - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
             logo: nbc.svg
